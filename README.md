@@ -1,7 +1,5 @@
 # 👨🏾‍💻 Gustavo Fortini
 
-**`Desenvolvedor FullStack`**
-
 Me chamo Gustavo Fortini, tenho 18 anos, nascido em Minas Gerais. Concluí o ensino médio no Cotemig, com o curso técnico em informática. Atualmente, estou cursando Sistema da Informação na PUCMG. 
 
 ---
