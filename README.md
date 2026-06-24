@@ -66,7 +66,7 @@ Me chamo Gustavo Fortini, tenho 18 anos, nascido em Minas Gerais. Concluí o ens
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📋 Estatísticas
 
 <p>
  
