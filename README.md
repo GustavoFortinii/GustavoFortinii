@@ -1,6 +1,6 @@
-# 👨🏾‍💻 Gustavo Fortini
+#  Gustavo Fortini
 
-Me chamo Gustavo Fortini, tenho 18 anos, nascido em Minas Gerais. Concluí o ensino médio no Cotemig, com o curso técnico em informática. Atualmente, estou cursando Sistema da Informação na PUCMG. 
+Me chamo Gustavo Fortini, tenho 19 anos, nascido em Minas Gerais. Concluí o ensino médio no Cotemig, com o curso técnico em informática. Atualmente, cursando Sistemas de Informação na PUCMG. 
 
 ---
 
@@ -32,19 +32,19 @@ Me chamo Gustavo Fortini, tenho 18 anos, nascido em Minas Gerais. Concluí o ens
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Csharp" 
+    title="Csharp"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.iconscout.com/icon/free/png-256/free-c-sustenido-icon-svg-download-png-1175240.png" 
 />
 <br/>
 <br/>
